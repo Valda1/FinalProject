@@ -398,6 +398,7 @@ public class DB {
                 } else {
                     System.out.println("This e-mail address already exists in your contact list!");
                     System.out.println(" ");
+                    matches1 = false;
                 }
             }
 
